@@ -15,14 +15,14 @@ export default {
       ? <div class="modal-wrapper">
       <div class="modal">
         <div class="modal-head text-right pb-2">
-        <a href="#" onClick={this.onClose}>
-          <i class="material-icons modal-close-icon">close</i>
-        </a>
+          <a href="#" onClick={this.onClose}>
+            <i class="material-icons modal-close-icon">close</i>
+          </a>
         </div>
-      <div class="modal-content">
-        {this.$slots.default}
+        <div class="modal-content">
+          {this.$slots.default}
+        </div>
       </div>
-    </div>
     </div> : null;
   },
 
