@@ -24,6 +24,6 @@ in its development, I used:
 - [Vue Router](https://router.vuejs.org/)
 - [Vuex](https://vuex.vuejs.org/)
 - [Express.js](https://expressjs.com/es/)
-- [Tini-slider](https://github.com/ganlanyuan/tiny-slider)
+- [Tiny-slider](https://github.com/ganlanyuan/tiny-slider)
 - [Tailwind](https://tailwindcss.com/)
 - [Firebase](https://firebase.google.com/)
